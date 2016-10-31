@@ -5,7 +5,7 @@ This repository provides supplementary material for our work on representations 
 The representations are amenable to standard NLP tools developed for tree-based structures. We use syntax-based SMT and tree kernel methods in order to build models for image description generation and image-based retrieval. 
 
 ## Supplementary material for the image description generation models
-### 1. Examples of System Outputs
+### 1. Examples of system outputs
 <html>
 <body>
 <p>
